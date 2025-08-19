@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# About the exam
+# Introduction
 
 The AWS Certified Cloud Practitioner (CLF-C02) exam is intended for individuals who can effectively demonstrate overall knowledge of the AWS Cloud, independent of a specific job role.
 
@@ -14,6 +14,10 @@ The exam also validates a candidate’s ability to complete the following tasks:
 - Understand AWS Cloud costs, economics, and billing practices.
 - Describe and position the core AWS services, including compute, network, database, and storage services.
 - Identify AWS services for common use cases
+
+## Exam overview
+- Exam duration: 90 minutes
+- Exam format: 65 questions; either multiple choice or multiple response
 
 ## Content outline
 
