@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_cloud_practitioner=self.webpackChunkaws_cloud_practitioner||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/aws-clf-02/blog","blogTitle":"Blog","authorsListPath":"/aws-clf-02/blog/authors"}')}}]);
