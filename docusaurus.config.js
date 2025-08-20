@@ -94,7 +94,16 @@ const config = {
             label: 'About the Exam',
             to: '/docs/introduction/about-exam',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/docs/cloud-concepts/', 
+            label: 'Cloud Concepts', 
+            position: 'left'
+          },
+          {
+            to: 'docs/infrastructure/introduction', 
+            label: 'AWS Cloud Infrastructure', 
+            position: 'left'
+          },
         ],
       },
       footer: {
